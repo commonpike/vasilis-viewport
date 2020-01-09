@@ -1,7 +1,7 @@
 /*
 	201911*pike
 	include this in your header just below the viewport meta tag
-  and change the vasilisMin to your liking.
+        and change the vasilisMin to your liking.
 	https://www.quirksmode.org/blog/archives/2011/06/dynamically_cha.html
 */
 
